@@ -49,6 +49,7 @@ Feel free to reach out for collaborations, insights, or just to chat about data 
 <div align="center">
 
 [![aaespino's 42 stats](https://badge.mediaplus.ma/starryblue/aaespino?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaespino&layout=compact&theme=chartreuse-dark" />
 
 | No  | Project                                                   | Status | Description | Goals | Group |
