@@ -61,10 +61,12 @@ This roadmap represents my **current engineering and theoretical trajectory**, c
 | No | Project | Description | Focus Area |
 | :-: | :------ | :---------- | :--------- |
 | 1 | ft_hangouts | Mobile messaging application | Mobile Development |
-| 2 | Piscine Mobile | Mobile development modules | Mobile Foundations |
+| 2 | Mobile (Piscine Mobile / Mobile) | Mobile development modules | Mobile Foundations |
 | 3 | Camagru | Secure web application with authentication | Web Backend |
-| 4 | Hypertube | Streaming web platform | Full-Stack Systems |
-| 5 | Total Perspective Vortex | Forecasting and prediction system | Time Series |
+| 4 | Matcha | Web dating platform with micro-framework | Full-Stack Systems |
+| 5 | Hypertube | Streaming web platform | Full-Stack Systems |
+| 6 | DSLR | Statistical learning project | Statistical Learning |
+| 7 | Total Perspective Vortex | Forecasting and prediction system | Time Series |
 
 ---
 
@@ -72,12 +74,12 @@ This roadmap represents my **current engineering and theoretical trajectory**, c
 
 | No | Project | Description | Focus Area |
 | :-: | :------ | :---------- | :--------- |
-| 6 | [SQL Tutorial](https://www.sqltutorial.org/) | Relational querying fundamentals | SQL |
-| 7 | [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Mathematical foundations for ML | Linear Algebra & Calculus |
-| 8 | [Algebra & Differential Calculus for Data Science](https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science) | Optimization-oriented calculus | Optimization |
-| 9 | [Probability & Statistics](https://www.coursera.org/learn/probability-statistics) | Statistical reasoning | Probability |
-| 10 | [Statistical Analysis & Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) | Statistical inference | Hypothesis Testing |
-| 11 | [Stanford Statistics](https://www.coursera.org/learn/stanford-statistics) | Applied statistics | Applied Statistics |
+| 8 | [SQL Tutorial](https://www.sqltutorial.org/) | Relational querying fundamentals | SQL |
+| 9 | [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Mathematical foundations for ML | Linear Algebra & Calculus |
+| 10 | [Algebra & Differential Calculus for Data Science](https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science) | Optimization-oriented calculus | Optimization |
+| 11 | [Probability & Statistics](https://www.coursera.org/learn/probability-statistics) | Statistical reasoning | Probability |
+| 12 | [Statistical Analysis & Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) | Statistical inference | Hypothesis Testing |
+| 13 | [Stanford Statistics](https://www.coursera.org/learn/stanford-statistics) | Applied statistics | Applied Statistics |
 
 ---
 
@@ -85,10 +87,10 @@ This roadmap represents my **current engineering and theoretical trajectory**, c
 
 | No | Project | Description | Focus Area |
 | :-: | :------ | :---------- | :--------- |
-| 12 | Matrix | Implementation of matrix operations | Linear Algebra |
-| 13 | Linear Regression | End-to-end regression model | Linear Models |
-| 14 | [Linear Regression for Business Statistics](https://www.coursera.org/learn/linear-regression-business-statistics) | Business-oriented regression | Business Modeling |
-| 15 | [Erasmus Econometrics](https://www.coursera.org/learn/erasmus-econometrics) | Econometric methods | Causality |
+| 14 | Matrix | Implementation of matrix operations | Linear Algebra |
+| 15 | Linear Regression | End-to-end regression model | Linear Models |
+| 16 | [Linear Regression for Business Statistics](https://www.coursera.org/learn/linear-regression-business-statistics) | Business-oriented regression | Business Modeling |
+| 17 | [Erasmus Econometrics](https://www.coursera.org/learn/erasmus-econometrics) | Econometric methods | Causality |
 
 ---
 
@@ -96,12 +98,11 @@ This roadmap represents my **current engineering and theoretical trajectory**, c
 
 | No | Project | Description | Focus Area |
 | :-: | :------ | :---------- | :--------- |
-| 16 | [EDA with Pandas](https://www.coursera.org/projects/exploratory-data-analysis-python-pandas) | Data exploration and cleaning | EDA |
-| 17 | [EDA for ML](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) | ML-oriented EDA | Feature Engineering |
-| 18 | [EDA with Seaborn](https://www.coursera.org/projects/exploratory-data-analysis-seaborn) | Visualization-driven EDA | Data Visualization |
-| 19 | DSLR | Statistical learning project | Statistical Learning |
-| 20 | Piscine Data Science | End-to-end data science workflow | Data Pipelines |
-| 21 | [Time Series (Kaggle)](https://www.kaggle.com/learn/time-series) | Time series analysis | Forecasting |
+| 18 | Piscine Data Science | End-to-end data science workflow | Data Pipelines |
+| 19 | [EDA with Pandas](https://www.coursera.org/projects/exploratory-data-analysis-python-pandas) | Data exploration and cleaning | EDA |
+| 20 | [EDA for ML](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) | ML-oriented EDA | Feature Engineering |
+| 21 | [EDA with Seaborn](https://www.coursera.org/projects/exploratory-data-analysis-seaborn) | Visualization-driven EDA | Data Visualization |
+| 22 | [Time Series (Kaggle)](https://www.kaggle.com/learn/time-series) | Time series analysis | Forecasting |
 
 ---
 
@@ -109,11 +110,11 @@ This roadmap represents my **current engineering and theoretical trajectory**, c
 
 | No | Project | Description | Focus Area |
 | :-: | :------ | :---------- | :--------- |
-| 22 | [Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | Core ML algorithms | Machine Learning |
-| 23 | [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Algorithms and complexity | Algorithms |
-| 24 | Leaffliction | Supervised ML classification | Supervised Learning |
-| 25 | Expert System | Rule-based decision system | Explainable AI |
-| 26 | Gomoku | Game AI with heuristics | Search & Decision Making |
+| 23 | [Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | Core ML algorithms | Machine Learning |
+| 24 | [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Algorithms and complexity | Algorithms |
+| 25 | Leaffliction | Supervised ML classification | Supervised Learning |
+| 26 | Expert System | Rule-based decision system | Explainable AI |
+| 27 | Gomoku | Game AI with heuristics | Search & Decision Making |
 
 ---
 
@@ -121,9 +122,9 @@ This roadmap represents my **current engineering and theoretical trajectory**, c
 
 | No | Project | Description | Focus Area |
 | :-: | :------ | :---------- | :--------- |
-| 27 | Multi-Layer Perceptron | Neural network implementation | Neural Networks |
-| 28 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Deep learning systems | Deep Learning |
-| 29 | [ML in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) | ML deployment | MLOps |
+| 28 | Multi-Layer Perceptron | Neural network implementation | Neural Networks |
+| 29 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Deep learning systems | Deep Learning |
+| 30 | [ML in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) | ML deployment | MLOps |
 
 ---
 
@@ -131,7 +132,7 @@ This roadmap represents my **current engineering and theoretical trajectory**, c
 
 | No | Project | Description | Focus Area |
 | :-: | :------ | :---------- | :--------- |
-| 30 | Darkly | Web security and vulnerabilities | Web Security |
-| 31 | Piscine PHP Symfony | Backend development | Backend Architecture |
-| 32 | Piscine Python Django | API development | REST APIs |
-| 33 | Red Tetris | Multiplayer networked game | Networking |
+| 31 | Darkly | Web security and vulnerabilities | Web Security |
+| 32 | Piscine PHP Symfony | Backend development | Backend Architecture |
+| 33 | Piscine Python Django | API development | REST APIs |
+| 34 | Red Tetris | Multiplayer networked game | Networking |
