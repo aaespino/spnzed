@@ -60,8 +60,8 @@ This roadmap represents my **current engineering and theoretical trajectory**, c
 
 | No | Project | Description | Focus Area |
 | :-: | :------ | :---------- | :--------- |
-| 1 | ft_hangouts | Mobile messaging application | Mobile Development |
-| 2 | Mobile (Piscine Mobile / Mobile) | Mobile development modules | Mobile Foundations |
+| 1 | Mobile (Piscine Mobile / Mobile) | Mobile development modules | Mobile Foundations |
+| 2 | ft_hangouts | Mobile messaging application | Mobile Development |
 | 3 | Camagru | Secure web application with authentication | Web Backend |
 | 4 | Matcha | Web dating platform with micro-framework | Full-Stack Systems |
 | 5 | Hypertube | Streaming web platform | Full-Stack Systems |
